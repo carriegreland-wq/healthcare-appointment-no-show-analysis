@@ -59,6 +59,7 @@ suggesting geographic or socioeconomic factors may influence appointment
 attendance.
 
 ---
+
 ## Operational Recommendations
 
 ### 1. Reduce Long Scheduling Lead Times
