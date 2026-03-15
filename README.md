@@ -57,6 +57,31 @@ suggesting geographic or socioeconomic factors may influence appointment
 attendance.
 
 ---
+## Operational Recommendations
+
+### 1. Reduce Long Scheduling Lead Times
+Analysis showed that appointments scheduled further in advance have higher 
+no-show rates. Clinics may reduce missed visits by limiting long scheduling 
+gaps when possible or by implementing additional reminders for appointments 
+booked far in advance.
+
+### 2. Target High-Risk Patient Groups
+Younger adult patients showed higher missed appointment rates. Healthcare 
+organizations could improve attendance through targeted reminder strategies 
+such as text messages or digital notifications.
+
+### 3. Review Effectiveness of SMS Reminder Strategy
+Patients who received SMS reminders showed higher no-show rates in the 
+dataset. This likely indicates that reminders are sent to patients already 
+considered high risk. Further analysis could evaluate whether reminder 
+timing or messaging affects attendance.
+
+### 4. Identify Community Barriers to Care
+Some neighborhoods demonstrated higher no-show rates. This may reflect 
+transportation barriers, work schedule conflicts, or other socioeconomic 
+factors. Healthcare providers may benefit from community outreach or 
+flexible scheduling options in these areas.
+---
 
 ## Project Structure
 ```
