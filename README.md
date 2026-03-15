@@ -9,8 +9,6 @@ with higher no-show rates.
 
 Data was analyzed using SQL in Google BigQuery and Python in Google Colab.
 
-Data was analyzed using SQL in Google BigQuery and Python in Google Colab.
-
 ---
 
 ## Dataset
