@@ -1,8 +1,6 @@
 # Medical-Appointment-No-Show-Analysis
 Exploratory data analysis of medical appointment no-shows using SQL/ Python
 
-# Medical Appointment No-Show Analysis
-
 ## Project Overview
 Missed medical appointments create scheduling inefficiencies, reduce clinic 
 productivity, and delay care for other patients. This project analyzes patient 
