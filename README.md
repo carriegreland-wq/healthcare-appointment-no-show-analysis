@@ -1,11 +1,13 @@
 # Medical Appointment No-Show Analysis
-
 *Exploratory data analysis of medical appointment no-shows using SQL and Python*
 
 ## Project Overview
-Missed medical appointments create scheduling inefficiencies, reduce clinic 
-productivity, and delay care for other patients. This project analyzes patient 
-appointment data to identify factors associated with higher no-show rates.
+In clinical scheduling environments, missed appointments can disrupt provider 
+schedules, reduce clinic productivity, and delay care for other patients. 
+This project analyzes patient appointment data to identify factors associated 
+with higher no-show rates.
+
+Data was analyzed using SQL in Google BigQuery and Python in Google Colab.
 
 Data was analyzed using SQL in Google BigQuery and Python in Google Colab.
 
@@ -84,6 +86,7 @@ Some neighborhoods demonstrated higher no-show rates. This may reflect
 transportation barriers, work schedule conflicts, or other socioeconomic 
 factors. Healthcare providers may benefit from community outreach or 
 flexible scheduling options in these areas.
+
 ---
 
 ## Project Structure
@@ -122,5 +125,5 @@ efforts toward high-risk patient groups.
 ---
 
 ## Author
-**Carrie Greland**  
+**[Your Name]**  
 [LinkedIn Profile URL] | [GitHub Profile URL]
