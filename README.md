@@ -22,7 +22,6 @@ Data was analyzed using SQL in Google BigQuery and Python in Google Colab.
 ## Objectives
 - Identify demographic and scheduling factors associated with higher no-show rates
 - Evaluate the effectiveness of SMS reminders on appointment attendance
-- Explore geographic variation in no-show behavior
 - Generate insights that could inform patient outreach strategies
 
 ---
@@ -112,5 +111,5 @@ efforts toward high-risk patient groups.
 ---
 
 ## Author
-**[Your Name]**  
+**Carrie Greland**  
 [LinkedIn Profile URL] | [GitHub Profile URL]
