@@ -91,11 +91,10 @@ healthcare-appointment-no-show-analysis/
 
 ## How to Run the Project
 
-1. Download the dataset from Kaggle  
-2. Open `appointment_noshow_analysis.ipynb` in Google Colab or Jupyter Notebook  
-3. Upload the dataset file when prompted  
-4. Run all cells in order
-5. View the interactive Tableau dashboard via the link in the Tableau Dashboard section above
+1. Open `appointment_noshow_analysis.ipynb` in Google Colab or Jupyter Notebook  
+2. Upload the dataset file when prompted  
+3. Run all cells in order
+4. View the interactive Tableau dashboard via the link in the Tableau Dashboard section above
 
 ## Future Improvements
 - Build a predictive model to identify high-risk no-show appointments
@@ -103,9 +102,8 @@ healthcare-appointment-no-show-analysis/
 - Analyze appointment patterns by day of week and time of day
 - Expand the dashboard with additional operational metrics
 
-- ## Dataset License
-- Dataset:
-  The dataset used in this project is sourced from Kaggle and is made available under the CC0: Public Domain license.
+## Dataset License
+The dataset used in this project is sourced from Kaggle and is made available under the CC0: Public Domain license.
 
 ## Author
 Carrie Greland  
