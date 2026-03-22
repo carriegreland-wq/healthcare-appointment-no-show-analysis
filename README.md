@@ -105,5 +105,5 @@ healthcare-appointment-no-show-analysis/
 
 ## Author
 Carrie Greland  
-[LinkedIn Profile URL]  
-[GitHub Profile URL]
+https://www.linkedin.com/in/carrie-greland-53397b73/
+https://github.com/carriegreland-wq/healthcare-appointment-no-show-analysis
