@@ -7,7 +7,8 @@ Exploratory data analysis of medical appointment no-shows using
 
 ![Dashboard Preview](images/dashboard.png)
 
-<img width="1769" height="779" alt="Healthcare Appointment No-Show Analysis Dashboard" src="https://github.com/user-attachments/assets/7e8e7b34-f28f-44e6-a7de-7ea6f9b5be75" />
+<img width="1786" height="847" alt="Healthcare Appointment No-Show Analysis Dashboard" src="https://github.com/user-attachments/assets/e9f57378-2308-480c-b9b3-4368f32f53a1" />
+
 
 
 ## Project Overview
